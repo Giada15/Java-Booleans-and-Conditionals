@@ -30,6 +30,8 @@ public class Bank {
         }else {
             System.out.println("OK. Have a nice day!");
         }
+
+        scan.close();
     }
     
 }
